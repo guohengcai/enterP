@@ -1,0 +1,45 @@
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll.config
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

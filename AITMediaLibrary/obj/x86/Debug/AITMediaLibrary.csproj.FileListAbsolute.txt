@@ -1,0 +1,114 @@
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\matthewc\Desktop\Business Logic pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\matthewc\Desktop\Presentation pt 2\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\5711\Downloads\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\5711\Desktop\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\5711\Desktop\Presentation pt 2-20170419T230409Z-001\Presentation pt 2\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\5711\Downloads\5711_Guoheng_Cai_ass1\5711_Guoheng_Cai_ass1\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\5711_Guoheng_Cai_ass1\5711_Guoheng_Cai_ass1\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.AdminForm.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T031809Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T230040Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170503T230040Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.AdminForm.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MaintainMedia.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170504T022255Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csprojResolveAssemblyReference.cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.AdminForm.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.LoginForm.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MaintainMedia.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.MediaBrowser.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.Properties.Resources.resources
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.csproj.GenerateResource.Cache
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\AITMediaLibrary.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.dll
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\BusinessLogic.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T033348Z-001\AITMediaLibrary\AITMediaLibrary\bin\Debug\DataAccessLayer.pdb
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T231124Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.exe
+C:\Users\5711\Downloads\AITMediaLibrary-20170510T231124Z-001\AITMediaLibrary\AITMediaLibrary\obj\x86\Debug\AITMediaLibrary.pdb
